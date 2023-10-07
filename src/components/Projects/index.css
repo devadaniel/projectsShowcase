@@ -1,0 +1,57 @@
+.projects-container {
+  background-color: #cbd5e1;
+  background-size: cover;
+  padding: 10px;
+}
+
+.select-options {
+  width: 250px;
+  height: 30px;
+  border-radius: 5px;
+  outline: none;
+}
+
+.projects-list-container {
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 30px;
+}
+.failure-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.failure-image {
+  width: 50%;
+}
+
+.failure-heading {
+  color: #000000;
+  font-family: 'Roboto';
+}
+
+.failure-text {
+  color: #000000;
+  font-family: 'Roboto';
+}
+
+.retry-button {
+  height: 40px;
+  width: 100px;
+  background-color: #328af2;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 5px;
+  border-radius: 5px;
+  color: #ffffff;
+}
+
+.loader {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

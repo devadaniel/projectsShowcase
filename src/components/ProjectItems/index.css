@@ -1,0 +1,19 @@
+.projects-items {
+  list-style-type: none;
+  margin-right: 10px;
+  background-color: #ffffff;
+  margin: 10px;
+  background-size: cover;
+  border-radius: 10px;
+}
+
+.project-image {
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+.projects-name {
+  color: #000000;
+  font-family: 'Roboto';
+  padding-left: 10px;
+}
